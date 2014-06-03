@@ -1,0 +1,9 @@
+{
+  "name": "request-list-app",
+  "description": "Single-page app to manage a request list",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.4.*"
+  }
+}
