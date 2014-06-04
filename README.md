@@ -1,6 +1,6 @@
-Request list app
-================
+Song Request
+============
 
-Request list app is a single-page app for manage a list of requests, like a list of songs to play...
+Song Request is a single-page app for manage a list of songs to learn to play
 
 Uses express framework (Node.JS)

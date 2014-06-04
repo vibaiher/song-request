@@ -1,6 +1,6 @@
 {
-  "name": "request-list-app",
-  "description": "Single-page app to manage a request list",
+  "name": "song-request",
+  "description": "Single-page app to manage a song request list",
   "version": "0.0.1",
   "private": true,
   "dependencies": {

@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 
 app.get('/', function(request, response) {
-  response.send('Hi, I am your request list app!');
+  response.send('Hi, I am your song request list!');
 });
 
 var server = app.listen(3000, function() {
